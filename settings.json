@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "exility5059.aternos.me:64646",
+    "ip": "dragonsanddungons.aternos.me:64646",
     "port": 64646,
     "version": "1.21.11",
     "try-creative": false
