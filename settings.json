@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dragonsanddungons.aternos.me:64646",
+    "ip": "dragonsanddungons.aternos.me",
     "port": 64646,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
