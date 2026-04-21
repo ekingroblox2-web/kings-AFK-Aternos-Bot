@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "eking50555",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "dragonsanddungons.aternos.me",
-    "port": 64646,
+    "ip": "exility5059-n0Qo.aternos.me",
+    "port": 42031,
     "version": "1.21.1",
     "try-creative": false
   },
